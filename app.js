@@ -51,7 +51,7 @@ function PageTransitions(){
 PageTransitions();
 
 
-//MOUSE CHANGE AND KNICKS SECTION
+/*//MOUSE CHANGE AND KNICKS SECTION
 const blogsSection = document.querySelector('#blogs');
 const knicksTitle = document.querySelector('.knicks-title');
 const soundEffects = [
@@ -88,7 +88,7 @@ knicksTitle.addEventListener('mouseenter', () => {
 knicksTitle.addEventListener('mouseleave', () => {
   // Change cursor back to basketball image
   document.body.style.cursor = 'url(./img/basketball.png), auto';
-});
+});*/
 
 
 
